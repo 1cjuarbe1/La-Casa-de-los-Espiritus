@@ -1,0 +1,176 @@
+* {margin:0;padding:0;}
+body {
+  background-color: #fc466b;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  font-size: 20px;
+  color: Purple;
+}
+h1 {
+  color: cornsilk;
+  font-family: "Times New Roman", serif;
+}
+h2 {
+  color:#14ffeb;
+  font-size: 30px;
+}
+h3 {
+  color:darkgreen;
+  font-family: 'Lora', serif;
+  font-size: 25px;
+}
+h4 {
+  font-size:30px;
+  color:#fc466b;
+}
+a {
+  color: PaleTurquoise;
+}
+nav ul {
+  background-color: #6e86fc;
+  border-style: solid;
+  border-color: white;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 10px;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: papaya;
+}
+nav ul li a {
+  text-decoration: none;
+  color: white;
+}
+img {
+  border-radius: 30px;
+  width: 200px;
+}
+.topDivider {
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: black;
+  padding-bottom: 10px;
+}
+
+.stylishBox {
+  background-color: #f2c1f1;
+  color: brown;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+  border-radius: 10px;
+}
+img {
+  width:250px;
+  height:250px;}
+  
+#myCoolText {
+    color: #330099;
+    border: 2px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#esteban {
+    color: #ff0099;
+    border: 2px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#ferula {
+    color: #ccffff;
+    border: 2px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#blanca {
+    color: #ffff99;
+    border: 2px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#alba {
+    color: #66ffcc;
+    border: 2px ridge #ccffff;
+    padding: 15px;
+    text-align: center;
+}
+#arbol {
+  width: 350px;
+  height: 250px;
+  border-radius: 0px;
+}
+#fotoesteban {
+  float: right;
+  width: 200px;
+  height: 200px;
+}
+#fotoblanca {
+  float: left;
+  width: 250px;
+  height: 200px;
+}
+#primerapagina {
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 86%);}
+#tercerapagina{
+  background: #f994b1;
+}
+#segundapagina{
+  background:#94edf9;
+}
+#isabeljoven {
+  border-radius:100px
+}
+#cuartapagina {
+  background:#d4c2ff;
+}
+#quintapagina {
+background:#a9d5a0;
+}
+#parrafo1 {
+ color: white;
+}
+#parrafo2 {
+ color: white;
+}
+#parrafo3 {
+ color: white;
+}
+#sextapagina {
+  background-image: url('https://www.heliatoledo.com/wp-content/uploads/2019/09/5-scaled.jpg');
+}
+#quemadelibros {
+  color:#fffe00
+}
+#elzorroygallina {
+  color:black;
+}
+#muertedebarrabas {
+  color:#8cff00
+}
+
+/**********************************
+This section is for styling tables
+***********************************/
+table, th, td {
+  border: 1px solid green;
+  border-collapse: collapse;
+}
+tr {
+  background-color: #9999cc;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: black;
+}
+td {
+  color: #ccffcc;
+}
+/********************************/
